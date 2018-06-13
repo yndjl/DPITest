@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_formal_context_notice">10sp</dimen>
+    <dimen name="text_size_formal_context_smaller">11sp</dimen>
+    <dimen name="text_size_formal_context_small">12sp</dimen>
+    <dimen name="text_size_formal_context">13sp</dimen>
+    <dimen name="text_size_formal_context_big">14sp</dimen>
+    <dimen name="text_size_formal_context_bigger">15sp</dimen>
+    <dimen name="text_size_actionbar_functionText">19sp</dimen>
+</resources>

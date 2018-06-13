@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="black1">#cc000000</color>
+    <color name="black2">#33DCDCDC</color>
+    <color name="black3">#55000000</color>
+    <color name="black4">#22000000</color>
+    <color name="blue">#009DFE</color>
+    <color name="blue1">#7C9DAA</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#31AA15</color>
+    <color name="touming">#00ffffff</color>
+
+
+
+
+    <color name="dialog_jia_ting_info_list_title">#79B4F2</color>
+    <color name="tabTextColor">#5FC6D3</color>
+    <color name="evety_fragment_title_content_fen_ge_xian">#989898</color>
+    <color name="main_activity_tabSelectedColor">#4ab0ff</color>
+    <color name="main_activity_tabNormalColor">#555555</color>
+    <color name="qian_yue_fu_wu_upload_btn_bg">#4ab0ff</color>
+    <color name="search_jia_ting_info_border_yellow">#FFD12E</color>
+    <color name="aaa">#49afff</color>
+
+
+    <!--自定义选择框的-->
+    <color name="fragment_list_add_new_bg">#E8E8E8</color>
+
+    <color name="fragment_every_service_bg">#f5f5f5</color>
+    <!--签约服务-->
+    <color name="fragment_fragment_home_doctor_do_protocol_actionbar">#009DFE</color>
+
+
+    <!--个性化服务-->
+    <color name="fragment_fragment_special_service_protocol_actionbar">#009DFE</color>
+
+
+    <!--公卫服务包-->
+    <color name="fragment_fragment_jbggws_do_protocol_actionbar">#009DFE</color>
+
+    <!--解约-->fragment_fragment_jie_yue_shu_actionbar
+    <color name="fragment_fragment_jie_yue_shu_actionbar">#009DFE</color>
+
+    <!--离线数据-->
+    <color name="native_download_data_deal_actionbar">#009DFE</color>
+
+    <!--统计管理-->
+    <color name="activity_main_actionbar_background">#009DFE</color>
+    <color name="activity_tjzs_remote">#FAFF98</color>
+    <color name="activity_tjzs_native">#89F095</color>
+
+
+    <color name="main_activity_lable_pressed">#01000000</color>
+    <color name="main_activity_lable_normal">#ffffff</color>
+    <color name="main_activity_lable_text">#bb000000</color>
+    <color name="main_activity_lable_text_pressed">#34867C</color>
+    <color name="main_activity_toolbar_bg">#34867C</color>
+    <color name="dialog_latest_version_app_remind_top">#05584D</color>
+    <color name="dialog_latest_version_app_remind_next_time">#CBCECE</color>
+</resources>
